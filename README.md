@@ -17,7 +17,7 @@ feature engineering e modelagem.
 
 ## Como executar
 1. Abra o notebook no Google Colab ou Jupyter
-2. Faça upload do arquivo `Train-Set.csv` 
+2. Faça upload do arquivo `train-set.csv` 
 3. Execute as células em ordem, de cima para baixo
 
 ## Resultados
