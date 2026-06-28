@@ -26,4 +26,4 @@ validação. Mais detalhes sobre o processo e as decisões técnicas estão docu
 diretamente no notebook.
 
 ## Autora
-Jaqueline Silveira
+Jaqueline Rodrigues Silveira
